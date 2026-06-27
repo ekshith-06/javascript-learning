@@ -19,4 +19,3 @@ console.log(a,x)   // if 0 then false else true
 let b=""
 let y=Boolean(b)
 console.log(b,y) // for empty string its false after conversion
-
